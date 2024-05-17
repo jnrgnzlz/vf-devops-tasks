@@ -25,7 +25,7 @@ All of them have their own README&#46;md to guide you. There are no dependencies
 
 ## Submitting your solutions
 Please submit your solutions in one of the following ways (PLEASE DO NOT COMMIT YOUR WORK BACK INTO OUR REPO!):
-1. Clone the repository to your local computer, add your solutions, then create your own private repository and add the following user as a collaborator: junior.gonzalez@vodafone.com, then share the link with us.
+1. Clone the repository to your local computer, add your solutions, then create your own private repository and add the following users as collaborators: junior.gonzalez@vodafone.com, james.irwin@vodafone, adrian.escolano@vodafone.com, sorinadrian.tarban@vodafone.com then share the link with us.
 2. Clone the repository to your local computer, add your solutions, then zip the directory with all content and host the zip file on an online platform live Google Drive, and share the link with us
 
 ## Notes
